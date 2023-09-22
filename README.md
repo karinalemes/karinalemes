@@ -32,10 +32,6 @@
 
 <div style="display: inline_block"><br/>
     <img alt="HTML 5" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-    <img alt="HTML 5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<div>
-
-#### Workstation Tools:
 
 <div style="display: inline_block"><br/>
     
